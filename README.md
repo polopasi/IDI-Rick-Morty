@@ -17,7 +17,7 @@ C: Activates a second first person viewport from the camcorder. This camera only
 
 G: Paint Rick the same green as the ground, blending into the camcorder.
 
-A: Restart the scene.
+R: Restart the scene.
 
 Commands to generate files:
 
