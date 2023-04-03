@@ -1,4 +1,4 @@
-# IDI-Rick-Morty
+# OpenGL-Rick-Morty
 
 ![image](https://user-images.githubusercontent.com/129793310/229621937-35d33512-f0d8-44ad-a78a-59e327b14b91.png)
 
