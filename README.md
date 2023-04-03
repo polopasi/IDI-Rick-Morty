@@ -1,5 +1,8 @@
 # IDI-Rick-Morty
 
+![image](https://user-images.githubusercontent.com/129793310/229621937-35d33512-f0d8-44ad-a78a-59e327b14b91.png)
+
+
 Exercise made with openGL.
 The scene contains several models: a security camera, Rick, Morty, a floor (8x8 units) and a wall (8x3).
 Pressing various keys interacts with the scene:
